@@ -1,0 +1,29 @@
+go 1.21.1
+
+use (
+	./01_Hello
+	./02_Variables
+	./03_User_Inputs
+	./04_Conversion
+	./05_mytime
+	./06_mypointers
+	./07_myarrays
+	./08_MySlices
+	./09_Mymaps
+	./10_Struct
+	./11_Ifelse
+	./12_Loops
+	./13_Functions
+	./14_Methods
+	./15_Defer
+	./16_Files
+	./17_Recursion
+	./19_urls
+	./18_Web_Request
+	./20_bitmorejson
+	./21_Buildingapi
+	./22_mymodules
+	./24_Mongoapi
+	./25_Go_Routines
+
+)
